@@ -37,7 +37,7 @@ An interactive data processing and visualization tool built with Streamlit. Effo
 ### Quick Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/advanced-data-tool.git
+git clone https://github.com/KirtanSapariya/Advanced-Data-Analysis-Tool.git
 cd advanced-data-tool
 
 # Install dependencies
