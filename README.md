@@ -154,7 +154,7 @@ Contributions are welcome! Please follow these steps:
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/advanced-data-tool.git
+git clone https://github.com/KirtanSapariya/Advanced-Data-Analysis-Tool.git
 
 # Install development dependencies
 pip install -r requirements.txt
